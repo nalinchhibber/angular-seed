@@ -1,0 +1,39 @@
+{
+  "name": "angular-seed",
+  "version": "1.0.0",
+  "description": "angular-seed",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nalinchhibber/angular-seed.git"
+  },
+  "keywords": [
+    "angularjs",
+    "npm"
+  ],
+  "author": "nalinc",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/nalinchhibber/angular-seed/issues"
+  },
+  "homepage": "https://github.com/nalinchhibber/angular-seed.git",
+  "dependencies": {
+    "angular": "~1.2.0",
+    "angular-ui-router": "0.2.11",
+    "bootstrap": "^3.3.4",
+    "jquery": "~2.1.0",
+    "requirejs": "~2.1.11",
+    "requirejs-domready": "2.0.1"
+  },
+  "engines": {
+    "node": "0.12.x"
+  },
+  "devDependencies": {
+    "express": "^4.0.0",
+    "grunt": "^1.0.1",
+    "grunt-express-server": "^0.5.3"
+  }
+}
